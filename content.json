@@ -1,0 +1,4547 @@
+{
+ "pages": {
+  "abes-bagels": {
+   "title": "Abe's Bagels",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "bagel-crisps-web-278.png",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Abe's Bagels - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bagelsweb-2399096.jpg",
+       "w": 1810,
+       "h": 1195,
+       "alt": "Abe's Bagels - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    }
+   ]
+  },
+  "barkers-1972-style-guide": {
+   "title": "Barkers 1972 Magazine",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "bark5-web-7601.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bark1-web-3816.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bark2-web-9661.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bark4-web-1374.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bark3-2378790.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "barker4web-2426600.jpg",
+       "w": 1123,
+       "h": 1573,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bark2-2378792.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "barker1web-2426603.jpg",
+       "w": 1254,
+       "h": 1817,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "barker3web-2426601.jpg",
+       "w": 1297,
+       "h": 1695,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "barker2web-2426602.jpg",
+       "w": 1378,
+       "h": 1704,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-bark4-copy-1262.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-bark2-6849.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Barkers 1972 Magazine</h2><p>The Barkers 1972 Magazine and Journal are curated to showcase the latest Barkers menswear ranges, keep clients up to date on the latest trends, along with providing interesting and varied insights into local people and projects of interest.<br><em><br>\"As a distinctly local business, we’re constantly inspired by the unique talent that surrounds us in this small country. Skill is something we foster and celebrate, and that dialogue of pride, success and hard work sees us joining forces with everyone from the All Blacks and Swanndri to Surfline and Volvo.\"</em><br><br>These publications have a high production value and frequently commission illustrations to help tie together the features.</p>"
+     ]
+    }
+   ]
+  },
+  "beebee-bear": {
+   "title": "Beebee Bear",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "beebee-web-7291.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Beebee Bear - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bb-p6-7-4956.jpg",
+       "w": 5000,
+       "h": 2346,
+       "alt": "Beebee Bear - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bb-p10-11-3850.jpg",
+       "w": 5000,
+       "h": 2348,
+       "alt": "Beebee Bear - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bb-p14-15web-7583.jpg",
+       "w": 5000,
+       "h": 2347,
+       "alt": "Beebee Bear - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bb-p21-9194.jpg",
+       "w": 2806,
+       "h": 2719,
+       "alt": "Beebee Bear - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>Beebee Bear</strong><br>Text by Jill Eggleton<br><em>Global Education, 2018</em></p>"
+     ]
+    }
+   ]
+  },
+  "birdy-cocktail-bar": {
+   "title": "Birdy Cocktail Bar",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "cherub1-web-6457.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Birdy Cocktail Bar - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "birdy-1-270.jpg",
+       "w": 1157,
+       "h": 1145,
+       "alt": "Birdy Cocktail Bar - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "birdy-3-528.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Birdy Cocktail Bar - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cherub2-web-7025.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Birdy Cocktail Bar - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cherub4-web-8700.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Birdy Cocktail Bar - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "birdy-2-608.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Birdy Cocktail Bar - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cherub3-web-4869.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Birdy Cocktail Bar - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Birdy</h2><p>Working with creative design studio Whitelaw Mitchell, I was commissioned to develop a series of branding illustrations for Birdy, a champagne &amp; cocktail bar in Queenstown. Birdy has an intimate art deco speakeasy aesthetic and the illustration concept to accompany this were for traditional cherubs, but with mischievous personalities shining through. Each cherub represented a different facet of the Birdy experience, capturing its cheeky nature and essence.</p>"
+     ]
+    }
+   ]
+  },
+  "commercial": {
+   "title": "COMMERCIAL",
+   "description": "2023",
+   "blocks": [
+    {
+     "type": "collection",
+     "layout": "grid",
+     "items": [
+      {
+       "slug": "nature-baby-2025",
+       "title": "Nature Baby 25~26",
+       "image": {
+        "file": "puffin-web6-410.jpg",
+        "w": 1181,
+        "h": 1181,
+        "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "pillars-report-2004",
+       "title": "Pillars Report 2024",
+       "image": {
+        "file": "pillars-web3-294.jpg",
+        "w": 1181,
+        "h": 1181,
+        "alt": "Pillars Report 2024 - Cat Chapman Illustration",
+        "focal": "75% 23%"
+       }
+      },
+      {
+       "slug": "haddrells-honey",
+       "title": "Haddrell's Honey",
+       "image": {
+        "file": "honey1-web-884.jpg",
+        "w": 1181,
+        "h": 1181,
+        "alt": "Haddrell's Honey - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "earth-smart-eco-tissues",
+       "title": "Earth Smart Eco Tissues",
+       "image": {
+        "file": "es-tissues-web2-642.jpg",
+        "w": 1134,
+        "h": 1134,
+        "alt": "Earth Smart Eco Tissues - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "earth-smart-toilet-tissue",
+       "title": "Earth Smart Toilet Tissue",
+       "image": {
+        "file": "es-toilettissue-web-320.jpg",
+        "w": 1134,
+        "h": 1134,
+        "alt": "Earth Smart Toilet Tissue - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "earth-smart-aquawipes",
+       "title": "Earth Smart Aquawipes",
+       "image": {
+        "file": "aquawipes-web-106.jpg",
+        "w": 1181,
+        "h": 1181,
+        "alt": "Earth Smart Aquawipes - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "nature-baby-textiles-2023",
+       "title": "Nature Baby 2024",
+       "image": {
+        "file": "nb-geese-web-789.jpg",
+        "w": 1181,
+        "h": 1181,
+        "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "birdy-cocktail-bar",
+       "title": "Birdy Cocktail Bar",
+       "image": {
+        "file": "birdy-2-764.jpg",
+        "w": 1181,
+        "h": 1181,
+        "alt": "Birdy Cocktail Bar - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "craggy-range-sheep-dairy",
+       "title": "Craggy Range Sheep Dairy",
+       "image": {
+        "file": "craggy-milk-web-346.jpg",
+        "w": 1181,
+        "h": 1181,
+        "alt": "Craggy Range Sheep Dairy - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "nature-baby-cloth-guide",
+       "title": "Nature Baby Cloth Guide",
+       "image": {
+        "file": "d-play-mat-896.jpg",
+        "w": 2001,
+        "h": 2001,
+        "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "nature-baby-textiles-4",
+       "title": "Nature Baby 2022",
+       "image": {
+        "file": "pineapple2-web-230.jpg",
+        "w": 567,
+        "h": 567,
+        "alt": "Nature Baby 2022 - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "nature-baby-sling-guide",
+       "title": "Nature Baby Sling Guide",
+       "image": {
+        "file": "sling5-web-copy-553.png",
+        "w": 2083,
+        "h": 2083,
+        "alt": "Nature Baby Sling Guide - Cat Chapman Illustration",
+        "focal": "48% 22%"
+       }
+      },
+      {
+       "slug": "nature-baby-textiles-2022",
+       "title": "Nature Baby 2021",
+       "image": {
+        "file": "web-nb1-641.jpg",
+        "w": 850,
+        "h": 850,
+        "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "premium-game",
+       "title": "Premium Game",
+       "image": {
+        "file": "untitled-8-576.jpg",
+        "w": 3543,
+        "h": 3543,
+        "alt": "Premium Game - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "ecostore-here-for-you",
+       "title": "Ecostore Here For You",
+       "image": {
+        "file": "eco12-web-copy-809.jpg",
+        "w": 567,
+        "h": 567,
+        "alt": "Ecostore Here For You - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "ecostore-little-bits-of-good",
+       "title": "Ecostore Little Bits Of Good",
+       "image": {
+        "file": "little-513.jpg",
+        "w": 2362,
+        "h": 2362,
+        "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "nature-baby-textiles-2020",
+       "title": "Nature Baby  19~20",
+       "image": {
+        "file": "nb-rooster-copy-102.png",
+        "w": 1397,
+        "h": 1397,
+        "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "pillars-poster",
+       "title": "Pillars Poster",
+       "image": {
+        "file": "pillars-web1-603.jpg",
+        "w": 1181,
+        "h": 1181,
+        "alt": "Pillars Poster - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "launch-poster",
+       "title": "L.A.U.N.C.H Poster",
+       "image": {
+        "file": "launch5-web-694.jpg",
+        "w": 2362,
+        "h": 2362,
+        "alt": "L.A.U.N.C.H Poster - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "pillars-mentor-pathway",
+       "title": "Pillars Mentor Pathway",
+       "image": {
+        "file": "pillars3-web-690.jpg",
+        "w": 2362,
+        "h": 2362,
+        "alt": "Pillars Mentor Pathway - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "abes-bagels",
+       "title": "Abe's Bagels",
+       "image": {
+        "file": "bagel-crisps-web-388.png",
+        "w": 1181,
+        "h": 1181,
+        "alt": "Abe's Bagels - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "physio4all",
+       "title": "Posture Clinic",
+       "image": {
+        "file": "dd-phone-final-634.png",
+        "w": 2480,
+        "h": 3508,
+        "alt": "Posture Clinic - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "little-owl",
+       "title": "Little Owl",
+       "image": {
+        "file": "web-owl2-408.jpg",
+        "w": 680,
+        "h": 680,
+        "alt": "Little Owl - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "miss-crabb",
+       "title": "Miss Crabb",
+       "image": {
+        "file": "website11-653.jpg",
+        "w": 1406,
+        "h": 1406,
+        "alt": "Miss Crabb - Cat Chapman Illustration",
+        "focal": "51% 42%"
+       }
+      },
+      {
+       "slug": "metro-magazine",
+       "title": "Metro Magazine",
+       "image": {
+        "file": "metro-web7-308.jpg",
+        "w": 2362,
+        "h": 2362,
+        "alt": "Metro Magazine - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "barkers-1972-style-guide",
+       "title": "Barkers 1972 Magazine",
+       "image": {
+        "file": "bark2-web-641.jpg",
+        "w": 567,
+        "h": 567,
+        "alt": "Barkers 1972 Magazine - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "nature-baby-textiles-2018",
+       "title": "Nature Baby  2018",
+       "image": {
+        "file": "screen-shot-2018-05-30-at-1-12-42-pm-569.png",
+        "w": 932,
+        "h": 804,
+        "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+        "focal": null
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "contact": {
+   "title": "CONTACT",
+   "description": "",
+   "blocks": [
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p>If you have a job in mind, please get in touch by filling in the form below and I'll get back to you shortly. Alternatively you can also find me on Instagram by clicking on the above link.</p>"
+     ]
+    },
+    {
+     "type": "form",
+     "fields": [
+      "Your Name",
+      "Your Email",
+      "Message"
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><em>All illustrations appearing in this site are the exclusive property&nbsp;of Cat Chapman and are protected under international copyright laws.&nbsp;Illustrations are not to be downloaded, reproduced, copied,&nbsp;stored, manipulated, projected, used or altered in any way, alone&nbsp;or with any other material, or by use of computer or other electronic&nbsp;means without the express written permission of Cat Chapman.&nbsp;The use of any image as the basis for another illustration concept&nbsp;or image is a violation of copyright.</em></p>"
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-2",
+     "html": []
+    }
+   ]
+  },
+  "craggy-range-sheep-dairy": {
+   "title": "Craggy Range Sheep Dairy",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "craggy-milk-web-262.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Craggy Range Sheep Dairy - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "crw-4143.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Craggy Range Sheep Dairy - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "crw-1514.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Craggy Range Sheep Dairy - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "crweb-5-5196.jpg",
+       "w": 850,
+       "h": 850,
+       "alt": "Craggy Range Sheep Dairy - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Craggy Range Sheep Dairy</h2><p>Award-winning sheep dairy producers Craggy Range Sheep Dairy, create artisan food products in New Zealand. Ethically-farmed, Craggy Range Sheep Dairy lambs stay with their mums, lounging under shady trees on the grassy hills of Craggy Range, until naturally weaned.&nbsp;A2 sheep milk can be gentler on the stomach, higher in amino acids, protein, iron – and has almost twice the calcium as cow milk.&nbsp;<br><br>Working alongside Snapfire Design, we chose a classic etching style to draw Martha, one of the farms&nbsp;matriarch dairy&nbsp;sheep, becoming the identity of Craggy Range’s logo and branding.&nbsp;</p>"
+     ]
+    }
+   ]
+  },
+  "earth-smart-aquawipes": {
+   "title": "Earth Smart Aquawipes",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "aquawipes-web-105.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Earth Smart Aquawipes - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "es9-web-5302.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Earth Smart Aquawipes - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "es11-web-3674.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Earth Smart Aquawipes - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "es10-web-2768.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Earth Smart Aquawipes - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "wipes-flower2-web-2692.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Earth Smart Aquawipes - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "es8-web-8532.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Earth Smart Aquawipes - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Earth Smart</h2><p>Directed by Curious Design, I worked to create a collection of attractive flora and fauna in a watercolour and gauche style, helping create attractive outer packaging for everyday products that customers would be happy to have on display in their homes.</p>"
+     ]
+    }
+   ]
+  },
+  "earth-smart-eco-tissues": {
+   "title": "Earth Smart Eco Tissues",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "es1-web-1974.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Earth Smart Eco Tissues - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "es-tissue-web2-9899.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Earth Smart Eco Tissues - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "es4-web-5240.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Earth Smart Eco Tissues - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "es-birds-web-1001.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Earth Smart Eco Tissues - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Earth Smart</h2><p>New Zealand company EarthSmart removed the plastic from the packaging of their 100% recyclable facial tissues. Made from Rapidly Renewable Fibre (RRF) EarthSmart plant fast growing trees and harvest them every 6 years to save our planets natural resources.<br><br>Directed by Curious Design, I worked to create a collection of attractive flora and fauna in a watercolour and gauche style, helping create attractive outer packaging for everyday products that customers would be happy to have on display in their homes.</p>"
+     ]
+    }
+   ]
+  },
+  "earth-smart-toilet-tissue": {
+   "title": "Earth Smart Toilet Tissue",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "es-toilettissue-web-8173.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Earth Smart Toilet Tissue - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "butterflies-web-8465.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Earth Smart Toilet Tissue - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-butterflybird-6835.jpg",
+       "w": 2296,
+       "h": 2296,
+       "alt": "Earth Smart Toilet Tissue - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "butterflies-web2-3064.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Earth Smart Toilet Tissue - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Earth Smart</h2><p>Made in New Zealand, EarthSmart's Toilet Tissue packaging contains no plastic coating or layers and is kerbside recyclable. The 100% recycled paper tissue is not bleached with chlorine during recycling, has no added dyes &amp; fragrances, is biodegradable and safe in septic tanks.<br><br>Directed by Curious Design, I worked to create a collection of attractive flora and fauna in a watercolour and gauche style, helping create attractive outer packaging for everyday products that customers would be happy to have on display in their homes.</p>"
+     ]
+    }
+   ]
+  },
+  "ecostore-here-for-you": {
+   "title": "Ecostore Here For You",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "eco3-web-484.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Here For You - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco11-web-6669.jpg",
+       "w": 451,
+       "h": 567,
+       "alt": "Ecostore Here For You - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco9-web-6264.jpg",
+       "w": 451,
+       "h": 567,
+       "alt": "Ecostore Here For You - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco1-web-2007.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Here For You - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco5-web-1242.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Here For You - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Ecostore</h2><p>Established in 1993, Ecostore develops, manufactures and packs all their household and personal care products at their own carboNZero certified factory in Auckland and share them worldwide.<br><br>Following the effort from all New Zealanders to keep each other safe through the Covid-19 Pandemic, Ecostore launched an online campaign to show what they are doing to help make a better future. Working with their digital marketing team we created a series of hand drawn texts and illustrations that have been animated to tell the story of Ecostore being <em>Here For You, their Team and the Community.</em></p>"
+     ]
+    }
+   ]
+  },
+  "ecostore-little-bits-of-good": {
+   "title": "Ecostore Little Bits Of Good",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "eco-web4-3208.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco-web6-8177.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco7-web-7293.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco-web9-9739.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco-web7-3724.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco2-web-3858.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco10-web-4375.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco-web5-9287.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco1-web-9633.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco9-web-2909.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco4-web-3031.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco6-web-7173.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco3-web-5944.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "eco-web1-5078.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Ecostore Little Bits Of Good - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Ecostore</h2><p>Established in 1993, Ecostore develops, manufactures and packs all their household and personal care products at their own carboNZero certified factory in Auckland and share them worldwide.<br><br>Working alongside Ecostore's marketing team and an animation company, my illustrations have been turned into an ongoing series of animated web stories. Each features the <em>'Little Bits Of Good'&nbsp;&nbsp;</em>Ecostore are doing as a company both locally and globally. This includes their contribution to Habitat for Humanity, a commitment to recycled, reusable, reduced packaging and a focus on being a carboNZero company, amongst many other great initiatives.</p>"
+     ]
+    }
+   ]
+  },
+  "flamingos-everywhere": {
+   "title": "Flamingos Everywhere",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "flamingo02-2399241.jpg",
+       "w": 1695,
+       "h": 2000,
+       "alt": "Flamingos Everywhere - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "flamingoweb-2399242.jpg",
+       "w": 3398,
+       "h": 2000,
+       "alt": "Flamingos Everywhere - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "flamingo3-2399246.jpg",
+       "w": 1962,
+       "h": 2000,
+       "alt": "Flamingos Everywhere - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "flamingo2-2399243.jpg",
+       "w": 3214,
+       "h": 1918,
+       "alt": "Flamingos Everywhere - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "final-1-2399244.jpg",
+       "w": 1447,
+       "h": 1552,
+       "alt": "Flamingos Everywhere - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>Flamingos Everywhere</strong><br>Text by Sam Montomerie<br><em>Sunshine Books, 2018</em></p>"
+     ]
+    }
+   ]
+  },
+  "haddrells-honey": {
+   "title": "Haddrell's Honey",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "honey4-web-932.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Haddrell's Honey - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "honey1-web-534.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Haddrell's Honey - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "honey3-web-copy-744.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Haddrell's Honey - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "honey2-web-320.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Haddrell's Honey - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Haddrell’s Honey Snap Pack for Kids</h2><p>As pioneers of New Zealand’s precious mānuka honey, Haddrell’s believes in the unique properties of this natural product. Haddrell’s specialises only in UMF™ mānuka honey for guaranteed authenticity, and care about sustaining the future of this precious honey. </p><p>Working with direction from Curious Design we created an energetic, bright bee mascot to appeal to children and emphasis how delicious the honey is in these easy to eat, on-the-go snack packs.</p>"
+     ]
+    }
+   ]
+  },
+  "index": {
+   "title": "Cat Chapman Illustration",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "slideshow",
+     "images": [
+      {
+       "file": "nb-dogs3-308.jpg",
+       "w": 1717,
+       "h": 827,
+       "alt": " - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cover-137.jpg",
+       "w": 3509,
+       "h": 2481,
+       "alt": " - Cat Chapman Illustration",
+       "focal": "47% 66%",
+       "caption": ""
+      },
+      {
+       "file": "nb-kowhai-cover-974.jpg",
+       "w": 1810,
+       "h": 1195,
+       "alt": " - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nothhead-cover-7997.jpg",
+       "w": 1810,
+       "h": 1195,
+       "alt": " - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "es-cover-web-7150.jpg",
+       "w": 1810,
+       "h": 1195,
+       "alt": " - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "lookingforcar-cover-2280.jpg",
+       "w": 1810,
+       "h": 1195,
+       "alt": " - Cat Chapman Illustration",
+       "focal": "47% 29%",
+       "caption": ""
+      }
+     ]
+    }
+   ]
+  },
+  "jake-whyte": {
+   "title": "Jake Whyte Pig Hunter",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "jake-cover-web-561.jpg",
+       "w": 2112,
+       "h": 3016,
+       "alt": "Jake Whyte Pig Hunter - Cat Chapman Illustration",
+       "focal": "65% 47%",
+       "caption": ""
+      },
+      {
+       "file": "jake4-web-932.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Jake Whyte Pig Hunter - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "jake3-web-285.jpg",
+       "w": 2157,
+       "h": 1181,
+       "alt": "Jake Whyte Pig Hunter - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "jake1-web-219.jpg",
+       "w": 2157,
+       "h": 1181,
+       "alt": "Jake Whyte Pig Hunter - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "jake2-web-999.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Jake Whyte Pig Hunter - Cat Chapman Illustration",
+       "focal": "51% 24%",
+       "caption": ""
+      }
+     ]
+    }
+   ]
+  },
+  "launch-poster": {
+   "title": "L.A.U.N.C.H Poster",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "launch5-web-3964.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "L.A.U.N.C.H Poster - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "launch-web-3913.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "L.A.U.N.C.H Poster - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "launch2-web-5519.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "L.A.U.N.C.H Poster - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "launch3-web-7749.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "L.A.U.N.C.H Poster - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    }
+   ]
+  },
+  "little-owl": {
+   "title": "Little Owl",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "webowl-2417234.jpg",
+       "w": 909,
+       "h": 909,
+       "alt": "Little Owl - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "webcard2-2417231.jpg",
+       "w": 633,
+       "h": 519,
+       "alt": "Little Owl - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "webcard1-2417232.jpg",
+       "w": 663,
+       "h": 519,
+       "alt": "Little Owl - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "webowl2-2417455.jpg",
+       "w": 680,
+       "h": 680,
+       "alt": "Little Owl - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    }
+   ]
+  },
+  "little-witch": {
+   "title": "Little Witch",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "cover-2060789.jpg",
+       "w": 1437,
+       "h": 2000,
+       "alt": "Little Witch - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "lw4-2255260.jpg",
+       "w": 1021,
+       "h": 701,
+       "alt": "Little Witch - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "sorceressmonda-2064888.jpg",
+       "w": 1820,
+       "h": 2000,
+       "alt": "Little Witch - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "lw3-2255261.jpg",
+       "w": 1021,
+       "h": 700,
+       "alt": "Little Witch - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "lw2-2255262.jpg",
+       "w": 1019,
+       "h": 700,
+       "alt": "Little Witch - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "lw1-2255263.jpg",
+       "w": 1021,
+       "h": 699,
+       "alt": "Little Witch - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>Little Witch</strong><br>Text by Juliette MacIver<br><em>Walker Books, 2012</em></p>"
+     ]
+    }
+   ]
+  },
+  "looking-for-cat": {
+   "title": "Looking for Cat",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "lookingforcat-web1-1719.jpg",
+       "w": 3424,
+       "h": 2362,
+       "alt": "Looking for Cat - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "lookingforcat-web2-9491.jpg",
+       "w": 2242,
+       "h": 2362,
+       "alt": "Looking for Cat - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "lookingforcat-web3-6743.jpg",
+       "w": 3424,
+       "h": 2362,
+       "alt": "Looking for Cat - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "lookg-for-cat-cover-6668.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Looking for Cat - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>﻿Looking for Cat<br></strong>﻿Text by Jill Eggleton<br><em>Global Education, 2023</em></p>"
+     ]
+    }
+   ]
+  },
+  "losing-turtle": {
+   "title": "Losing Turtle",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "losingturtlecoverweb-2064884.jpg",
+       "w": 1457,
+       "h": 2000,
+       "alt": "Losing Turtle - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "losingturtle1-2065113.jpg",
+       "w": 3120,
+       "h": 2000,
+       "alt": "Losing Turtle - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "losingturtle4-2065116.jpg",
+       "w": 2917,
+       "h": 2000,
+       "alt": "Losing Turtle - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "losingturtle2-2065114.jpg",
+       "w": 3089,
+       "h": 2000,
+       "alt": "Losing Turtle - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "losingturtle3-2065115.jpg",
+       "w": 2922,
+       "h": 2000,
+       "alt": "Losing Turtle - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>Losing Turtle</strong><br>Text by Adrienne Frater<br><em>Walker Books, 2011</em></p>"
+     ]
+    }
+   ]
+  },
+  "metro-magazine": {
+   "title": "Metro Magazine",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "metro-web4-8321.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Metro Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "metro3-insta-4319.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Metro Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "metro2-insta-9702.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Metro Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "metro1-insta-4982.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Metro Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "metro-web2-9925.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Metro Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "metro-web1-3332.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Metro Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "metro-web3-7680.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Metro Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "metro-web7-9951.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Metro Magazine - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Metro Magazine</h2><p>Metro is the go-to magazine, in print and online, for Aucklanders who want to connect with their city on a deeper level. Covering where to eat out, the arts, design, current affairs, education and social trends, with content that’s insightful, edgy, informed, entertaining and stylish.<br><br>The illustrations to accompany the article \"The Trouble With Auckland Transport\", were asked to be “Scarry-esque” and emphasis the current chaotic interaction of busy traffic and roads, pedestrians and businesses in the inner city, in a funny light hearted way.</p>"
+     ]
+    }
+   ]
+  },
+  "miss-crabb": {
+   "title": "Miss Crabb",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "website11-4699.jpg",
+       "w": 1406,
+       "h": 1406,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "website9-3117.jpg",
+       "w": 2702,
+       "h": 4032,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "website8-7249.jpg",
+       "w": 2641,
+       "h": 4032,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "website7-5525.jpg",
+       "w": 1512,
+       "h": 2016,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "website6-6116.jpg",
+       "w": 1512,
+       "h": 2016,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "website3-4889.jpg",
+       "w": 4013,
+       "h": 4013,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "website10-1453.jpg",
+       "w": 1512,
+       "h": 1512,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "website2-3031.jpg",
+       "w": 4013,
+       "h": 4013,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "website4-2211.jpg",
+       "w": 1512,
+       "h": 2016,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "coin-web2-650.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "orig-hera-coin-illus-web-408.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "orig-crabb-coin-illus-web-691.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Miss Crabb - Cat Chapman Illustration",
+       "focal": "66% 42%",
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Miss Crabb</h2><p>Miss Crabb (now Gloria) is a New Zealand clothing line established in 2004. Supporting high-quality local production is an important value of the brand. Miss Crabb takes a subversive approach to shape, proportion and beauty so each piece transcends time, age and place. The clothes are made to be interpreted by the wearer, encouraging singularity and freedom.&nbsp;<br><br>Flowing watery illustrations have been chosen to reflect the range by Miss Crabb. Sheer fabrics, the volume of materials and the clothing shapes are subtly represented in the illustrations, resulting in an evocative, dreamy interpretation of the clothing. </p><p>The<em> Dreams Come True 2004-2019 </em>Coin, is a&nbsp;celebretory collaborative project between Miss Crabb and Maeve Woodhouse ; jeweller and creative director of Auckland jewels Hera Saabi. With each side art directed by Kristine Crabb and Maeve Woodhouse, I drew illustrations that were transformed into the 3D printed metal coins.</p>"
+     ]
+    }
+   ]
+  },
+  "nature-baby-2025": {
+   "title": "Nature Baby 25~26",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "agnes-dress-bluebelle-print-web-hover-155.webp",
+       "w": 1330,
+       "h": 1330,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "long-sleeve-cloud-tee-bluebelle-natural-print-extra-img-4-935.webp",
+       "w": 957,
+       "h": 957,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bunny-web3-463.jpg",
+       "w": 2476,
+       "h": 2476,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bunny-web1-797.jpg",
+       "w": 2476,
+       "h": 2476,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dogs-web4-896.jpg",
+       "w": 2476,
+       "h": 2476,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dogs-web2-496.jpg",
+       "w": 2476,
+       "h": 2476,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dog-web1-779.jpg",
+       "w": 2476,
+       "h": 2476,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dogs-web3-432.jpg",
+       "w": 2476,
+       "h": 2476,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": "55% 15%",
+       "caption": ""
+      },
+      {
+       "file": "puffin-web7-750.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "puffin-web6-814.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-pansy3-web-352.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-pansy1-web-409.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-ponies-web5-855.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-ponies-web-523.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "puffin-web2-458.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "puffin-web5-598.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": "38% 66%",
+       "caption": ""
+      },
+      {
+       "file": "sun-web2-757.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": "39% 20%",
+       "caption": ""
+      },
+      {
+       "file": "sun-web3-464.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "otter3-420.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "otter-391.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 25~26 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    }
+   ]
+  },
+  "nature-baby-cloth-guide": {
+   "title": "Nature Baby Cloth Guide",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "dplaymat-2131318.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb3-2363264.jpg",
+       "w": 1512,
+       "h": 1512,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dswaddle-2131317.jpg",
+       "w": 1098,
+       "h": 1098,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dmess-2131319.jpg",
+       "w": 1241,
+       "h": 1241,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb2-2363267.jpg",
+       "w": 1512,
+       "h": 1512,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dfeeding-2131320.jpg",
+       "w": 1307,
+       "h": 1307,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dburpcloth-2131321.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dbassinet-2131322.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cnappycover-2131323.jpg",
+       "w": 1095,
+       "h": 1010,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cfoldednappys-2131324.jpg",
+       "w": 1393,
+       "h": 1274,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "baby3-2131325.jpg",
+       "w": 1351,
+       "h": 1382,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb5-2363266.jpg",
+       "w": 1280,
+       "h": 1280,
+       "alt": "Nature Baby Cloth Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Nature Baby</h2><p>Nature Baby specialises in innovative, organic and chemical free products that are good for you, your baby and nature.<br><br>The focus of this project was to create a fold out poster to illustrate the steps to using a cloth nappy, that the chief nappy changers could keep and refer to. The illustrations deliver the message in a sweet, attractive, yet informative way.</p>"
+     ]
+    }
+   ]
+  },
+  "nature-baby-sling-guide": {
+   "title": "Nature Baby Sling Guide",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "nb-sling7-web-3886.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby Sling Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sling5-web-6982.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby Sling Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sling2-web-2673.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby Sling Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sling8-web-9894.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby Sling Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sling4-web-7805.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby Sling Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sling3-web-2333.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby Sling Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sling6-web-2487.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby Sling Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "sling4-web-9646.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby Sling Guide - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Nature Baby</h2><p>Nature Baby specialises in innovative, organic and chemical free products that are good for you, your baby and nature.<br><br>The focus of this project was to create a pamphlet to illustrate the steps to using the Nature Baby Ring Sling. The illustrations accompany simple text to deliver the instructions in a clear and attractive way, sympathetic to Nature Baby's aesthetic.</p>"
+     ]
+    }
+   ]
+  },
+  "nature-baby-textiles-2018": {
+   "title": "Nature Baby  2018",
+   "description": "2018",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "nb-bear-web-5244.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bears-detail-1157.png",
+       "w": 593,
+       "h": 559,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nbdesignrough-2066332.jpg",
+       "w": 1909,
+       "h": 2000,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "websuit-2420371.jpg",
+       "w": 574,
+       "h": 523,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2018-07-02-at-10-9927.20",
+       "w": 873,
+       "h": 613,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb1-web-7447.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb2-web-4552.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2018-08-22-at-1-8990.19",
+       "w": 613,
+       "h": 787,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2018-08-20-at-12-9221.25",
+       "w": 544,
+       "h": 590,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-fish3-5307.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-fish1-2918.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2018-08-20-at-12-3056.26",
+       "w": 593,
+       "h": 590,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2017-08-04-at-20152-pm-2154680.png",
+       "w": 539,
+       "h": 696,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "trees-sleeve-1851.png",
+       "w": 571,
+       "h": 578,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "trees-hat-2854.png",
+       "w": 545,
+       "h": 499,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2018-08-20-at-12-5775.34",
+       "w": 445,
+       "h": 594,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "ladybird1web-2089871.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2018-08-20-at-12-2144.25",
+       "w": 597,
+       "h": 529,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "ladyb-deatail-5893.png",
+       "w": 593,
+       "h": 557,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2018-08-20-at-12-6486.22",
+       "w": 463,
+       "h": 448,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "hives-wrap-7290.png",
+       "w": 587,
+       "h": 532,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "beehive-2089872.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2018-08-20-at-12-5873.35",
+       "w": 592,
+       "h": 589,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2017-08-04-at-20124-pm-2154678.png",
+       "w": 541,
+       "h": 699,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2018-08-20-at-12-1756.30",
+       "w": 595,
+       "h": 589,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "birds-wrap-3718.png",
+       "w": 595,
+       "h": 515,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "webbonnet-2420370.jpg",
+       "w": 453,
+       "h": 649,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cabbage-2066336.jpg",
+       "w": 1645,
+       "h": 1489,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "webonsie-2420374.jpg",
+       "w": 450,
+       "h": 638,
+       "alt": "Nature Baby  2018 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    }
+   ]
+  },
+  "nature-baby-textiles-2020": {
+   "title": "Nature Baby  19~20",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "nb-sum20-7-6707.jpg",
+       "w": 476,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sum20-6-8129.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sum20-9-8305.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sum20-3-4120.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sum20-5-2976.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sum20-4-8248.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sum20-10-8305.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sum20-8-5851.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-sum20-6181.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-nb6-1094.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-nb8-1840.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-2020-bib-web-3790.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-nb7-4562.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-nb9-2585.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-nb2-7585.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-nb4-4521.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-2020-wrap-web-2896.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby  19~20 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    }
+   ]
+  },
+  "nature-baby-textiles-2022": {
+   "title": "Nature Baby 2021",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "dogs-web-3459.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-nb5a-3629.jpg",
+       "w": 850,
+       "h": 850,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-nb4-2416.jpg",
+       "w": 850,
+       "h": 850,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-web12-3892.jpg",
+       "w": 334,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-web10-4864.jpg",
+       "w": 406,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-web2-2438.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-web11-7112.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-web3-3680.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-web7-7267.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-web4-8671.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-web5-7895.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-web9-3677.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-web6-5523.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-w21-web15-1388.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-w21-web8-9636.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-w21-web14-6963.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-cherry-web-copy-3428.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cherries-web-8039.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-w21-web2-7888.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "shel-webl-3714.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-w21-web3-2623.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-w21-web16-4216.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-web-7937.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-w21-web4-5791.jpg",
+       "w": 1724,
+       "h": 2362,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-w21-web5-2771.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-w21-web6-9517.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-w21-web1-6847.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-nb6a-9135.jpg",
+       "w": 850,
+       "h": 850,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "whale-3754.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "whale2-8620.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "whale3-2724.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nbw21-1-8498.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nbw21-4-8056.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nbw21-2-8989.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nbw21-3-9487.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2021 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    }
+   ]
+  },
+  "nature-baby-textiles-2023": {
+   "title": "Nature Baby 2024",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "web1-171.jpg",
+       "w": 1275,
+       "h": 1275,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": "44% 14%",
+       "caption": ""
+      },
+      {
+       "file": "web2-119.jpg",
+       "w": 1259,
+       "h": 1259,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-lemur-572.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-parrot-663.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dogs-web2-494.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dogs-web1-532.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "geese-web1-869.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "geese-web-872.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "meadow-web4-642.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "meadow-web1-934.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": "57% 23%",
+       "caption": ""
+      },
+      {
+       "file": "tulip-web2-732.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": "47% 17%",
+       "caption": ""
+      },
+      {
+       "file": "tulip-web1-518.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-pohutakawa-web2-822.jpg",
+       "w": 510,
+       "h": 510,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "flower-web7-7128.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "kowhai-web1-7592.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "kowhai-web5-9741.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "boats-web4-6020.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "boats-web2-6251.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "whale-web1-6063.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "whale-web2-2959.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "image001-copy-723.png",
+       "w": 1324,
+       "h": 1520,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb11161-dream-tigers-natural-print-607.webp",
+       "w": 1200,
+       "h": 1200,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "croc-web-742.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "oranges-web-726.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-fish1-copy-770.jpg",
+       "w": 1202,
+       "h": 1202,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-fish5-183.jpg",
+       "w": 1309,
+       "h": 1309,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nb-bunny-web-777.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2023-08-07-at-10-20-26-am-363.png",
+       "w": 1228,
+       "h": 1228,
+       "alt": "Nature Baby 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Nature Baby</h2><p>Nature Baby specialises in innovative, organic and chemical free products that are good for you, your baby and nature.<br><br>From the design teams varied briefs, mood boards and colour palettes, I develop illustrations that are turned into exclusive, fun and timeless textile prints.</p>"
+     ]
+    }
+   ]
+  },
+  "nature-baby-textiles-4": {
+   "title": "Nature Baby 2022",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "nbs22-web-2-8257.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Nature Baby 2022 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nbs22-web-5-copy-4061.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Nature Baby 2022 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "pansy-web-copy-8517.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Nature Baby 2022 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "pineapple2-web-2717.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Nature Baby 2022 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nbs22-web-13-5067.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Nature Baby 2022 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "nbs22-web-14-3747.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Nature Baby 2022 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Nature Baby</h2><p>Nature Baby specialises in innovative, organic and chemical free products that are good for you, your baby and nature.<br><br>From the design teams varied briefs, mood boards and colour palettes, I develop illustrations that are turned into exclusive, fun and timeless textile prints.</p>"
+     ]
+    }
+   ]
+  },
+  "new-about": {
+   "title": "ABOUT",
+   "description": "",
+   "blocks": [
+    {
+     "type": "spread",
+     "layout": "textright",
+     "html": [
+      "<h2>Kia Ora</h2><p><br>I am Cat Chapman, a freelance illustrator based in Auckland, Aotearoa New Zealand. I have a Bachelor of Design majoring in Photography, and also studied children's book illustration. I have illustrated books for multiple publishers and <em>Yak and Gnu (Walker Books)</em> and <em>The Best Dad in the World (Upstart Press)</em> are both Storylines Notable Picture Books. Commercially, I have worked on a wide range of small to large corporate projects. Many of these have turned into productive ongoing working relationships. I work with a range of mediums including digital, hand printed and watercolours.<br><br>PICTURE BOOKS<br>Currently I only illustrate books for publishers, and are unable to take on any self published commissions. Please contact my picture book agent <a href=\"https://www.illustration.co.nz/\">Sandra Morris</a>&nbsp;for any further queries.<br><br>COMMERCIAL ILLUSTRATION<br>I enjoy the variety of briefs and style that commercial illustration projects provide. My work is regularly used in fabric prints, editorials, products and packaging, animations and infographics. My work often has a hand drawn aesthetic, that communicates ideas with warmth and character. If you have a job in mind and need a versatile, easy to work with illustrator, please get in touch.</p>"
+     ],
+     "image": {
+      "file": "cat-portrait2-692.jpg",
+      "w": 1956,
+      "h": 2390,
+      "alt": "ABOUT - Cat Chapman Illustration",
+      "focal": "47% 40%"
+     }
+    }
+   ]
+  },
+  "other-work": {
+   "title": "OTHER WORK",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "horses1-web-594.jpg",
+       "w": 3011,
+       "h": 3007,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "kingfisher2-334.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "tui-web-860.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-lemur1-729.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "sunflower-sample1-922.jpg",
+       "w": 2480,
+       "h": 2480,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bear-web-3209.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "northhead-web-2065.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "sunflower-sample3-241.jpg",
+       "w": 2480,
+       "h": 2480,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "windydog-6763.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "auckndrain1-web-4423.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "seafgulls-web3-7153.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "valleyrd-web-6915.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "sample-988.png",
+       "w": 645,
+       "h": 654,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bearprint2-web-4495.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cat-web2-5182.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "landscape1-c-web-417.jpg",
+       "w": 3508,
+       "h": 3508,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "village-web1-3626.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "peli-web-9178.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cat-web3-1562.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "mt-eden-web2-9391.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "landscape1-a-web-801.jpg",
+       "w": 3508,
+       "h": 3508,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cat-web1-2841.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bear1-2121343.jpg",
+       "w": 1192,
+       "h": 1192,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "maunga-senset-web2-7973.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "village-web2-1959.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "cat-5805.jpg",
+       "w": 1508,
+       "h": 1698,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "pony-web-4896.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2021-07-26-at-1-8574.56",
+       "w": 666,
+       "h": 666,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "coffee5-2124.jpg",
+       "w": 1498,
+       "h": 1498,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "landscape1-e-web-268.jpg",
+       "w": 3508,
+       "h": 3508,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "fish-2171822.jpg",
+       "w": 1871,
+       "h": 1871,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "screen-shot-2021-08-10-at-7-6762.54",
+       "w": 516,
+       "h": 506,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "rabbits-2121520.jpg",
+       "w": 1417,
+       "h": 1417,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "lovesnake-1091.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "echinacea-2431.jpg",
+       "w": 2515,
+       "h": 2429,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "green5-6487.jpg",
+       "w": 3543,
+       "h": 3543,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "snap1-5144.jpg",
+       "w": 945,
+       "h": 945,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bear3-2121344.jpg",
+       "w": 1299,
+       "h": 1299,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bear2-2121341.jpg",
+       "w": 1147,
+       "h": 1147,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "me2-web-4652.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-queen8-8163.jpg",
+       "w": 1468,
+       "h": 1237,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-elton2-9567.jpg",
+       "w": 1578,
+       "h": 1578,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "foxesweb2-2428083.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "threebears-2060797.jpg",
+       "w": 2601,
+       "h": 2000,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "tree1web-2256712.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "wolfweb-2429373.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "farm-designweb-2076674.jpg",
+       "w": 1448,
+       "h": 2000,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "fox-tree-2078929.jpg",
+       "w": 712,
+       "h": 712,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "raincrocsweb-2078932.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "sealweb-2359132.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "website1-2352941.jpg",
+       "w": 1633,
+       "h": 1633,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "beara2background2web-2078931.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "crocsweb-2078938.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "trucker-2078853.jpg",
+       "w": 1033,
+       "h": 1459,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "toitoiweb-2078930.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "OTHER WORK - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    }
+   ]
+  },
+  "physio4all": {
+   "title": "Posture Clinic",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "dylan-web-968.jpg",
+       "w": 1800,
+       "h": 1800,
+       "alt": "Posture Clinic - Cat Chapman Illustration",
+       "focal": "23% 20%",
+       "caption": ""
+      },
+      {
+       "file": "dino1-web-2485.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Posture Clinic - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dino3-web-6440.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Posture Clinic - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-cover-7842.jpg",
+       "w": 2324,
+       "h": 2324,
+       "alt": "Posture Clinic - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-dino4-6379.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Posture Clinic - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-dino8-5209.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Posture Clinic - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "web-dino1-7460.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Posture Clinic - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dylan1-497.jpg",
+       "w": 1439,
+       "h": 1439,
+       "alt": "Posture Clinic - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>The Posture Clinic</h2><p>Director of The Poster Clinnic and Physio4All, Joanne Hornsby identified a need in schools and communities to teach positive posture, in an aim to try to prevent the pains associated with repetitive modern day activities.<br><br>The first stage was developing a poster and series of illustrations to accompany the text aimed at engaging children in schools, through fun, brightly coloured dinosaur characters. The lead green dinosaur shows positive ways to carry school bags, sit and stand tall, and use digital devices, accompanied by other dinosaurs showing incorrect actions.&nbsp;</p>"
+     ]
+    }
+   ]
+  },
+  "picture-books": {
+   "title": "PICTURE BOOKS",
+   "description": "",
+   "blocks": [
+    {
+     "type": "collection",
+     "layout": "grid",
+     "items": [
+      {
+       "slug": "when-we-go-camping",
+       "title": "When We Go Camping",
+       "image": {
+        "file": "wwgc-cover-web-454.jpg",
+        "w": 3036,
+        "h": 3036,
+        "alt": "When We Go Camping - Cat Chapman Illustration",
+        "focal": "59% 47%"
+       }
+      },
+      {
+       "slug": "the-mystery-box-and-finnigan-flynn",
+       "title": "The Mystery Box and Finnigan Flynn",
+       "image": {
+        "file": "cover2-775.jpg",
+        "w": 2528,
+        "h": 3129,
+        "alt": "The Mystery Box and Finnigan Flynn - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "yak-and-gnu",
+       "title": "Yak and Gnu",
+       "image": {
+        "file": "yakgnu-cover-web-copy-123.jpg",
+        "w": 567,
+        "h": 567,
+        "alt": "Yak and Gnu - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "the-best-mum-in-the-world",
+       "title": "The Best Mum in the World",
+       "image": {
+        "file": "best-mum-cover-copy-291.jpg",
+        "w": 2945,
+        "h": 3060,
+        "alt": "The Best Mum in the World - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "the-best-dad-in-the-world",
+       "title": "The Best Dad in the World",
+       "image": {
+        "file": "cover1-564.jpg",
+        "w": 2740,
+        "h": 2740,
+        "alt": "The Best Dad in the World - Cat Chapman Illustration",
+        "focal": "85% 50%"
+       }
+      },
+      {
+       "slug": "the-best-dog-in-the-world",
+       "title": "The Best Dog In The World",
+       "image": {
+        "file": "best-dog-web-802.jpg",
+        "w": 567,
+        "h": 567,
+        "alt": "The Best Dog In The World - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "the-frog-who-lost-his-underpants",
+       "title": "The Frog Who Lost His Underpants",
+       "image": {
+        "file": "tfwlhu-cover-web-687.jpg",
+        "w": 2670,
+        "h": 3492,
+        "alt": "The Frog Who Lost His Underpants - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "jake-whyte",
+       "title": "Jake Whyte Pig Hunter",
+       "image": {
+        "file": "jake-cover-web-558.jpg",
+        "w": 2112,
+        "h": 3016,
+        "alt": "Jake Whyte Pig Hunter - Cat Chapman Illustration",
+        "focal": "65% 47%"
+       }
+      },
+      {
+       "slug": "looking-for-cat",
+       "title": "Looking for Cat",
+       "image": {
+        "file": "screen-shot-2023-10-19-at-8-26-58-pm-782.png",
+        "w": 1092,
+        "h": 1432,
+        "alt": "Looking for Cat - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "beebee-bear",
+       "title": "Beebee Bear",
+       "image": {
+        "file": "beebee-web-773.jpg",
+        "w": 567,
+        "h": 567,
+        "alt": "Beebee Bear - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "flamingos-everywhere",
+       "title": "Flamingos Everywhere",
+       "image": {
+        "file": "flamingo02-478.jpg",
+        "w": 1864,
+        "h": 2199,
+        "alt": "Flamingos Everywhere - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "little-witch",
+       "title": "Little Witch",
+       "image": {
+        "file": "cover-787.jpg",
+        "w": 1653,
+        "h": 2300,
+        "alt": "Little Witch - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "losing-turtle",
+       "title": "Losing Turtle",
+       "image": {
+        "file": "losingturtle-cover-web-378.jpg",
+        "w": 1590,
+        "h": 2182,
+        "alt": "Losing Turtle - Cat Chapman Illustration",
+        "focal": null
+       }
+      },
+      {
+       "slug": "poetry-cards",
+       "title": "Poetry Cards",
+       "image": {
+        "file": "ge-nannyannie-web-350.jpg",
+        "w": 567,
+        "h": 567,
+        "alt": "Poetry Cards - Cat Chapman Illustration",
+        "focal": null
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "pillars-mentor-pathway": {
+   "title": "Pillars Mentor Pathway",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "masonry",
+     "images": [
+      {
+       "file": "pillars6-web-8046.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Pillars Mentor Pathway - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "pillars4-web-4921.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Pillars Mentor Pathway - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "pillars8-web-8327.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Pillars Mentor Pathway - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "pillars5-web-2462.jpg",
+       "w": 2362,
+       "h": 2362,
+       "alt": "Pillars Mentor Pathway - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "pillars2-web-454.jpg",
+       "w": 1661,
+       "h": 2362,
+       "alt": "Pillars Mentor Pathway - Cat Chapman Illustration",
+       "focal": "58% 81%",
+       "caption": ""
+      },
+      {
+       "file": "pillars1-web-217.jpg",
+       "w": 1661,
+       "h": 2362,
+       "alt": "Pillars Mentor Pathway - Cat Chapman Illustration",
+       "focal": "56% 83%",
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Pillars Ka Pou Whakahou</h2><p>Pillars Ka Pou Whakahou is a charity that exists to support the tamariki and whānau of people in prison to create positive futures for themselves. Pillars mahi provides programmes and wrap-around social work services for whānau and mentoring for children.<br><br>Working alongside design studio Stir Creative, I illustrated the infographic pathways to show the journey for both the Whānau and the Mentors, with Pillars. The illustrations are bold, bright, friendly and show character engagement along the steps.</p>"
+     ]
+    }
+   ]
+  },
+  "pillars-poster": {
+   "title": "Pillars Poster",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "masonry",
+     "images": [
+      {
+       "file": "pillars-poster-web-363.jpg",
+       "w": 2480,
+       "h": 3508,
+       "alt": "Pillars Poster - Cat Chapman Illustration",
+       "focal": "27% 45%",
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Pillars Ka Pou Whakahou</h2><p>Pillars Ka Pou Whakahou is a charity that exists to support the tamariki and whānau of people in prison to create positive futures for themselves. Pillars mahi provides programmes and wrap-around social work services for whānau and mentoring for children.<br><br>Working alongside design studio Stir Creative, this illustration has been used for posters and report cover artwork, and portrays the value and positivity of mentoring children in this programme.</p>"
+     ]
+    }
+   ]
+  },
+  "pillars-report-2004": {
+   "title": "Pillars Report 2024",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "stack",
+     "images": [
+      {
+       "file": "pillars-web1-852.jpg",
+       "w": 1802,
+       "h": 1181,
+       "alt": "Pillars Report 2024 - Cat Chapman Illustration",
+       "focal": "47% 67%",
+       "caption": ""
+      },
+      {
+       "file": "pillars-web3-522.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Pillars Report 2024 - Cat Chapman Illustration",
+       "focal": "75% 23%",
+       "caption": ""
+      },
+      {
+       "file": "insta2-245.jpg",
+       "w": 1954,
+       "h": 1954,
+       "alt": "Pillars Report 2024 - Cat Chapman Illustration",
+       "focal": "78% 32%",
+       "caption": ""
+      },
+      {
+       "file": "insta3-642.jpg",
+       "w": 1954,
+       "h": 1954,
+       "alt": "Pillars Report 2024 - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "pillars-web4-862.jpg",
+       "w": 1181,
+       "h": 1181,
+       "alt": "Pillars Report 2024 - Cat Chapman Illustration",
+       "focal": "37% 56%",
+       "caption": ""
+      },
+      {
+       "file": "pillars-web2-158.jpg",
+       "w": 1802,
+       "h": 1181,
+       "alt": "Pillars Report 2024 - Cat Chapman Illustration",
+       "focal": "31% 62%",
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Pillars Ka Pou Whakahou</h2><p>Pillars Ka Pou Whakahou is a charity that exists to support the tamariki and whānau of people in prison to create positive futures for themselves. Pillars mahi provides programmes and wrap-around social work services for whānau and mentoring for children.<br><br>Working alongside design studio Stir Creative, we created a 28 page annual report highlighting the immense work and achievement of both Pillars staff, volunteers, whānau, and their donors. The illustrations are uplifting and positive, using bold, bright colours and engaging characters to convey the key messages of this annual report.</p>"
+     ]
+    }
+   ]
+  },
+  "poetry-cards": {
+   "title": "Poetry Cards",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "ge-nannyannie-web-1459.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Poetry Cards - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "ge-cat-web-4848.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Poetry Cards - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>Illustrations for Poetry Cards</strong><br>Text by Jill Eggleton<br><em>Global Ed, 2019</em></p>"
+     ]
+    }
+   ]
+  },
+  "premium-game": {
+   "title": "Premium Game",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "grid",
+     "images": [
+      {
+       "file": "web-pg-logo2-1918.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Premium Game - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "pg-paper-web-5817.jpg",
+       "w": 1134,
+       "h": 1134,
+       "alt": "Premium Game - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "untitled-1-3347.jpg",
+       "w": 850,
+       "h": 850,
+       "alt": "Premium Game - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "untitled-8-8325.jpg",
+       "w": 3543,
+       "h": 3543,
+       "alt": "Premium Game - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "untitled-7-8894.jpg",
+       "w": 3543,
+       "h": 3543,
+       "alt": "Premium Game - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "wg-web4-8617.jpg",
+       "w": 689,
+       "h": 696,
+       "alt": "Premium Game - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "untitled-2-2098.jpg",
+       "w": 850,
+       "h": 850,
+       "alt": "Premium Game - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "pg4-web-9934.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Premium Game - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "pg5-web-7036.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Premium Game - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<h2>Premium Game</h2><p>Specialising in South Island wild game,&nbsp;Premium Game is MPI certified wild meat harvested and processed in the most natural way.&nbsp;Audited by AssureQuality, each animal is traced to the land they have come and have never been subject to Glyphosate, GMO, Hormones or Antibiotics.<br><br>Premium Game required a series of illustrations of wild game, at the time aesthetically in keeping with their existing logo. Following the success of the illustrations I drew, I went on to update their company logo.&nbsp; The illustrations needed to be bold enough to be used in both small print and larger promotional material, yet with enough detail to illustrate the lean muscular quality of these animals.</p>"
+     ]
+    }
+   ]
+  },
+  "the-best-dad-in-the-world": {
+   "title": "The Best Dad in the World",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "cover1-2060788.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "The Best Dad in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "final10-11-2065109.jpg",
+       "w": 3957,
+       "h": 2000,
+       "alt": "The Best Dad in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "final20-21-2065110.jpg",
+       "w": 4009,
+       "h": 2000,
+       "alt": "The Best Dad in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "final22-23-2065111.jpg",
+       "w": 3957,
+       "h": 2000,
+       "alt": "The Best Dad in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "dadmandarinweb-2392783.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "The Best Dad in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "toitoi-2065112.jpg",
+       "w": 1626,
+       "h": 2000,
+       "alt": "The Best Dad in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>The Best Dad in the World</strong><br>Text by Patricia Chapman<br><em>Upstart Press, 2016</em><br><br><em>A Storylines Notable Picture Book 2017</em></p>"
+     ]
+    }
+   ]
+  },
+  "the-best-dog-in-the-world": {
+   "title": "The Best Dog In The World",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "best-dog-web-1518.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "The Best Dog In The World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "best-dog-web2-1347.jpg",
+       "w": 1291,
+       "h": 658,
+       "alt": "The Best Dog In The World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "best-dog-web3-3528.jpg",
+       "w": 1300,
+       "h": 659,
+       "alt": "The Best Dog In The World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>The Best Dog in the World</strong><br>Text by Patricia Chapman<br><em>Upstart Press, 2019</em></p>"
+     ]
+    }
+   ]
+  },
+  "the-best-mum-in-the-world": {
+   "title": "The Best Mum in the World",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "bestmumcover-2060787.jpg",
+       "w": 1925,
+       "h": 2000,
+       "alt": "The Best Mum in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bed-2392778.jpg",
+       "w": 1430,
+       "h": 1430,
+       "alt": "The Best Mum in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bestmum1-2064909.jpg",
+       "w": 3796,
+       "h": 2000,
+       "alt": "The Best Mum in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "plaster-2392776.jpg",
+       "w": 1512,
+       "h": 1817,
+       "alt": "The Best Mum in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bestmum2-2064910.jpg",
+       "w": 3851,
+       "h": 2000,
+       "alt": "The Best Mum in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "bestmum3-2064911.jpg",
+       "w": 3910,
+       "h": 2000,
+       "alt": "The Best Mum in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "hiding-2392789.jpg",
+       "w": 1324,
+       "h": 1533,
+       "alt": "The Best Mum in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "mum-manadrin-web-2392805.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "The Best Mum in the World - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>The Best Mum in the World</strong><br>Text by Patricia Chapman<br><em>Upstart Press, 2017</em></p>"
+     ]
+    }
+   ]
+  },
+  "the-frog-who-lost-his-underpants": {
+   "title": "The Frog Who Lost His Underpants",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "tfwlhucoverweb-2064896.jpg",
+       "w": 1529,
+       "h": 2000,
+       "alt": "The Frog Who Lost His Underpants - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "tfwlhu-1web-2064897.jpg",
+       "w": 3063,
+       "h": 2000,
+       "alt": "The Frog Who Lost His Underpants - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "tfwlhu-2web-2064898.jpg",
+       "w": 3068,
+       "h": 2000,
+       "alt": "The Frog Who Lost His Underpants - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>The Frog Who Lost His Underpants</strong><br>Text By Juliette MacIver<br><em>Walker Books, 2014</em></p>"
+     ]
+    }
+   ]
+  },
+  "the-mystery-box-and-finnigan-flynn": {
+   "title": "The Mystery Box and Finnigan Flynn",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "cover2-2060786.jpg",
+       "w": 1616,
+       "h": 2000,
+       "alt": "The Mystery Box and Finnigan Flynn - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "ff-final-p14-15web-7285.jpg",
+       "w": 4973,
+       "h": 2897,
+       "alt": "The Mystery Box and Finnigan Flynn - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "ff-final-p16-17web-2457.jpg",
+       "w": 4974,
+       "h": 3017,
+       "alt": "The Mystery Box and Finnigan Flynn - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "ff-final-p20-21web-4732.jpg",
+       "w": 4964,
+       "h": 3025,
+       "alt": "The Mystery Box and Finnigan Flynn - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "ff-final-p26-27web-6144.jpg",
+       "w": 4901,
+       "h": 2978,
+       "alt": "The Mystery Box and Finnigan Flynn - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>The Mystery Box and Finnigan Flynn</strong></p><p>Text by Lucy Davey<br><em>Scholastic, 2016</em></p>"
+     ]
+    }
+   ]
+  },
+  "when-we-go-camping": {
+   "title": "When We Go Camping",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "wwgccoverweb-2392803.jpg",
+       "w": 2000,
+       "h": 2000,
+       "alt": "When We Go Camping - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "wwgc1-2064892.jpg",
+       "w": 3843,
+       "h": 2000,
+       "alt": "When We Go Camping - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "fishing-2392775.jpg",
+       "w": 1500,
+       "h": 2000,
+       "alt": "When We Go Camping - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "fire-2392800.jpg",
+       "w": 1289,
+       "h": 1526,
+       "alt": "When We Go Camping - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "wwgc3-2064894.jpg",
+       "w": 3869,
+       "h": 2000,
+       "alt": "When We Go Camping - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "wwgc2-2064893.jpg",
+       "w": 3851,
+       "h": 2000,
+       "alt": "When We Go Camping - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>When We Go Camping</strong><br>Text by Sally Sutton<br><em>Walker Books, 2016</em></p>"
+     ]
+    }
+   ]
+  },
+  "yak-and-gnu": {
+   "title": "Yak and Gnu",
+   "description": "",
+   "blocks": [
+    {
+     "type": "gallery",
+     "layout": "cobblestone",
+     "images": [
+      {
+       "file": "yakgnu-cover-web-6285.jpg",
+       "w": 567,
+       "h": 567,
+       "alt": "Yak and Gnu - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "final-yak-and-gnu-int-3web-4990.jpg",
+       "w": 5000,
+       "h": 3249,
+       "alt": "Yak and Gnu - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "final-yak-and-gnu-int-12web-2521.jpg",
+       "w": 5000,
+       "h": 3251,
+       "alt": "Yak and Gnu - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "final-yak-and-gnu-int-10web-2001.jpg",
+       "w": 5000,
+       "h": 3244,
+       "alt": "Yak and Gnu - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      },
+      {
+       "file": "final-yak-and-gnu-int-13web-5420.jpg",
+       "w": 5000,
+       "h": 3246,
+       "alt": "Yak and Gnu - Cat Chapman Illustration",
+       "focal": null,
+       "caption": ""
+      }
+     ]
+    },
+    {
+     "type": "text",
+     "layout": "column-1",
+     "html": [
+      "<p><strong>Yak and Gnu</strong><br>Text by Juliette MacIver<br><em>Walker Books, 2015<br><br>A Storylines Notable Picture Book 2016</em></p>"
+     ]
+    }
+   ]
+  }
+ },
+ "logo": {
+  "file": "logo.png",
+  "w": 821,
+  "h": 157,
+  "alt": "Cat Chapman Illustration"
+ },
+ "favicon": "favicon.jpg",
+ "nav": [
+  {
+   "slug": "commercial",
+   "label": "COMMERCIAL"
+  },
+  {
+   "slug": "picture-books",
+   "label": "PICTURE BOOKS"
+  },
+  {
+   "slug": "other-work",
+   "label": "OTHER WORK"
+  },
+  {
+   "slug": "new-about",
+   "label": "ABOUT"
+  },
+  {
+   "slug": "contact",
+   "label": "CONTACT"
+  }
+ ],
+ "social": [
+  {
+   "url": "https://www.instagram.com/cat_chapman_illustration/?hl=en",
+   "name": "instagram"
+  }
+ ],
+ "footer": "&copy; Copyright 2026 Cat Chapman Illustration"
+}
