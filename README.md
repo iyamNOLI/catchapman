@@ -13,7 +13,7 @@ A copy of catchapman.co.nz (all 47 pages, 446 images) as a plain static website,
 3. After a minute the site is live at `https://catchapman.0-5.uk` (set by `CUSTOM_DOMAIN` in `build.py`).
 
 ### Using a custom domain
-- **Her real domain:** in Settings → Pages, enter `www.catchapman.co.nz` as the custom domain. Then, at her domain registrar, replace the 22slides DNS records with a `CNAME` from `www` to `<username>.github.io`, plus GitHub's four `A` records for the bare domain: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`. Tick **Enforce HTTPS** once it's available.
+- **Her real domain:** set `CUSTOM_DOMAIN = "www.catchapman.co.nz"` in `build.py`, rebuild and push. Then, at her domain registrar, replace the 22slides DNS records with a `CNAME` from `www` to `<username>.github.io`, plus GitHub's four `A` records for the bare domain: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`. Tick **Enforce HTTPS** once it's available.
 - **A free 0-5.uk name:** create a GitHub Pages subdomain at https://0-5.uk/dashboard, then enter that name as the custom domain.
 
 The page addresses match the old site (`/little-owl`, `/picture-books`, …), so existing links and Google results keep working after the switch.
