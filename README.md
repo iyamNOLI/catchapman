@@ -1,31 +1,28 @@
-# Cat Chapman Illustration — static site
+# Cat Chapman Illustration — self-hosted copy
 
-A copy of catchapman.co.nz (all 47 pages, 446 images) as a plain static website, ready for **free** hosting on GitHub Pages instead of a paid 22slides plan.
+An exact copy of catchapman.co.nz (all 47 pages, 446 images), served free on GitHub Pages instead of a paid 22slides plan. Live at https://catchapman.0-5.uk.
 
+- `source/` — the original pages exactly as 22slides serves them, plus its two theme scripts (`source/dist/`)
+- `mirror.py` — copies `source/` into `docs/`, swapping every 22slides image address for the local copies in `docs/images/`
 - `docs/` — the finished website (this is what GitHub Pages publishes)
-- `content.json` — all the page text, image lists and menu
-- `build.py` — rebuilds `docs/` from `content.json`
-- `assets/` — the stylesheet and the small script (slideshow, image viewer, mobile menu)
+- `serve.py` — local preview that behaves like GitHub Pages (`/little-owl` → `little-owl.html`)
 
-## Publish on GitHub Pages
-1. Push this folder to a GitHub repository.
-2. On GitHub, open the repo's **Settings → Pages**. Under **Build and deployment**, choose **Deploy from a branch**, then pick the **main** branch and the **/docs** folder.
-3. After a minute the site is live at `https://catchapman.0-5.uk` (set by `CUSTOM_DOMAIN` in `build.py`). Links are root-relative (`/little-owl`), so the site must be served from the root of a domain, not a `github.io/<repo>/` subpath.
+The page HTML, layout, slideshow, image viewer and styling are 22slides' own, unchanged. Only the asset addresses are rewritten. Note that the theme code belongs to 22slides: using it long-term after cancelling 22slides may not be covered by its terms.
 
-To preview locally the way GitHub Pages serves it: `python3 serve.py` then open http://localhost:8790.
-
-### Using a custom domain
-- **Her real domain:** set `CUSTOM_DOMAIN = "www.catchapman.co.nz"` in `build.py`, rebuild and push. Then, at her domain registrar, replace the 22slides DNS records with a `CNAME` from `www` to `<username>.github.io`, plus GitHub's four `A` records for the bare domain: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`. Tick **Enforce HTTPS** once it's available.
-- **A free 0-5.uk name:** create a GitHub Pages subdomain at https://0-5.uk/dashboard, then enter that name as the custom domain.
-
-The page addresses match the old site (`/little-owl`, `/picture-books`, …), so existing links and Google results keep working after the switch.
-
-## Editing
-Edit `content.json` (text, page order, image lists), add any new images to `docs/images/large/` and `docs/images/thumb/`, then run:
+## Publish
+GitHub Pages is set to **main** branch, **/docs** folder, with the custom domain from `docs/CNAME` (`CUSTOM_DOMAIN` in `mirror.py`).
 ```bash
-python3 build.py
+python3 mirror.py
+git add -A && git commit -m "Update site" && git push
 ```
-Commit and push, and GitHub Pages updates within a minute or two.
+
+Preview locally with `python3 serve.py`, then open http://localhost:8790.
+
+## Updating content
+Re-save a changed page from the live 22slides site into `source/<page>.html`. If it uses new images, download them into `docs/images/large/` and `docs/images/thumb/`. Then rerun `mirror.py`, which stops and names any image it can't find locally.
+
+## Moving her real domain
+Set `CUSTOM_DOMAIN = "www.catchapman.co.nz"` in `mirror.py`, rerun it and push. Then, at her domain registrar, replace the 22slides DNS records with a `CNAME` from `www` to `iyamnoli.github.io`, plus GitHub's four `A` records for the bare domain: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`. Tick **Enforce HTTPS** in the repo's Pages settings once it's available.
 
 ## Contact form
-GitHub Pages can't send email itself. To make the form work, create a free form at https://formspree.io (50 messages a month free) using Cat's email address, paste its endpoint into `FORM_ENDPOINT` in `build.py`, and rebuild. Until then, the form tells visitors to get in touch on Instagram.
+The form still posts to 22slides' servers, which GitHub Pages can't stand in for, so it won't send. A free service like Formspree can replace it.
