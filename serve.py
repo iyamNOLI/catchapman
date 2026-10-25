@@ -18,7 +18,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         path = self.path.split("?")[0].rstrip("/")
         if path and "." not in os.path.basename(path) and os.path.exists(os.path.join(DOCS, path.lstrip("/") + ".html")):
             self.path = path + ".html"
-        elif path and not os.path.exists(os.path.join(DOCS, path.lstrip("/"))):
+        elif path and not os.path.exists(os.path.join(DOCS, path.lstrip("/"))) and os.path.exists(os.path.join(DOCS, "404.html")):
             self.path = "/404.html"
         return super().send_head()
 
