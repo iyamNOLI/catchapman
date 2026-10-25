@@ -19,6 +19,9 @@ SITE_NAME = "Cat Chapman Illustration"
 # and paste its endpoint here (e.g. "https://formspree.io/f/abcdwxyz"), then rebuild.
 FORM_ENDPOINT = ""
 
+# The custom domain GitHub Pages serves this site on (written to docs/CNAME).
+CUSTOM_DOMAIN = "catchapman.0-5.uk"
+
 esc = html.escape
 site = json.load(open(os.path.join(ROOT, "content.json"), encoding="utf-8"))
 
@@ -176,6 +179,9 @@ def main():
             {"type": "text", "html": ['<p style="text-align:center">Sorry, that page doesn\'t exist. <a href="index.html">Back to the home page</a>.</p>']}
         ]}))
     open(os.path.join(OUT, ".nojekyll"), "w").close()
+    if CUSTOM_DOMAIN:
+        with open(os.path.join(OUT, "CNAME"), "w") as f:
+            f.write(CUSTOM_DOMAIN + "\n")
     print(f"Built {len(site['pages'])} pages into docs/")
 
 

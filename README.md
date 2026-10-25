@@ -10,7 +10,7 @@ A copy of catchapman.co.nz (all 47 pages, 446 images) as a plain static website,
 ## Publish on GitHub Pages
 1. Push this folder to a GitHub repository.
 2. On GitHub, open the repo's **Settings → Pages**. Under **Build and deployment**, choose **Deploy from a branch**, then pick the **main** branch and the **/docs** folder.
-3. After a minute the site is live at `https://<username>.github.io/<repo>/`.
+3. After a minute the site is live at `https://catchapman.0-5.uk` (set by `CUSTOM_DOMAIN` in `build.py`).
 
 ### Using a custom domain
 - **Her real domain:** in Settings → Pages, enter `www.catchapman.co.nz` as the custom domain. Then, at her domain registrar, replace the 22slides DNS records with a `CNAME` from `www` to `<username>.github.io`, plus GitHub's four `A` records for the bare domain: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`. Tick **Enforce HTTPS** once it's available.
